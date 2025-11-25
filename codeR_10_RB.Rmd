@@ -1,5 +1,5 @@
 ---
-title: "TUGAS BESAR ADS - Analisis Pengaruh Uang Saku Terhadap IPK Mahasiswa"
+title: "TUGAS BESAR ADS - Analisis Pengaruh Uang Saku Terhadap IPK Mahasiswa  ITERA"
 author: "Kelompok 10"
 date: "2025-11"
 output: html_document
@@ -237,4 +237,5 @@ qqline(res, col="red", lwd=2)
 # Shapiro-Wilk normality test
 shapiro.test(res)
 ```
+
 
