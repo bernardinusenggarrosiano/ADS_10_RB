@@ -6,27 +6,23 @@ output: html_document
 ---
 
 ```{r}
-# =============================================
 # ANALISIS PENGARUH UANG SAKU TERHADAP IPK MAHASISWA
-# =============================================
 
-# --------------------
 # 1. IMPORT DATA
-# --------------------
+
 data <- read.csv("Data Cleaned.CSV")
 str(data)
 
 summary(data)
 
-# --------------------
 # 2. PREPROCESSING DATA
-# --------------------
+
 data$IPK <- as.numeric(data$IPK)
 data$UangSaku <- as.numeric(data$UangSaku)
 
-# --------------------
+
 # 3. STATISTIK DESKRIPTIF IPK
-# --------------------
+
 ipk_min  <- min(data$IPK, na.rm = TRUE)
 ipk_max  <- max(data$IPK, na.rm = TRUE)
 ipk_mean <- mean(data$IPK, na.rm = TRUE)
@@ -40,9 +36,9 @@ cat("Rata-rata IPK  =", ipk_mean, "\n")
 cat("Median IPK    =", ipk_median, "\n")
 cat("Standard deviasi=", ipk_sd, "\n\n")
 
-# --------------------
+
 # 4. KATEGORISASI UANG SAKU
-# --------------------
+
 data$UangSaku_f <- factor(
  data$UangSaku,
  levels = c(1, 2, 3, 4),
@@ -55,9 +51,9 @@ print(table(data$UangSaku_f))
 cat("\nPROPORSI KATEGORI UANG SAKU\n")
 print(prop.table(table(data$UangSaku_f)))
 
-# --------------------
+
 # 5. SCATTER PLOT
-# --------------------
+
 plot(data$UangSaku, data$IPK,
     pch = 19,
     col = "dodgerblue3",
@@ -74,18 +70,18 @@ abline(lm(IPK ~ UangSaku, data = data),
     col = "red3",
     lwd = 3)
 
-# --------------------
+
 # 6. MODEL REGRESI LINEAR
-# --------------------
+
 model <- lm(IPK ~ UangSaku, data = data)
 
 summary(model)
 
 confint(model)
 
-# --------------------
+
 # 7. PERSAMAAN REGRESI
-# --------------------
+
 res <- residuals(model)
 b0 <- coef(model)[1]
 b1 <- coef(model)[2]
@@ -99,9 +95,9 @@ b1 <- 0.02183
 cat("=== PERSAMAAN REGRESI LINEAR ===\n")
 cat("IPK = ", b0, " + ", b1, " * UangSaku\n\n", sep="")
 
-# --------------------
+
 # 8. INTERPRETASI REGRESI
-# --------------------
+
 cat("=== INTERPRETASI REGRESI ===\n")
 
 cat(
@@ -128,9 +124,8 @@ cat(
   sep=" "
 )
 
-# --------------------
 # 9. UJI HIPOTESIS KOEFISIEN
-# --------------------
+
 alpha <- 0.05
 p_betal <- summary(model)$coefficients["UangSaku", "Pr(>|t|)"]
 cat("UJI HIPOTESIS KOEFISIEN BETA 1 (PENGARUH UANG SAKU TERHADAP IPK)\n\n")
@@ -146,9 +141,8 @@ if (p_betal < alpha) {
     cat("Kesimpulan: Uang saku tidak berpengaruh signifikan terhadap IPK mahasiswa.\n")
 }
 
-# --------------------
 # 10. UJI KORELASI PEARSON
-# --------------------
+
 uji_korelasi <- cor.test(data$UangSaku, data$IPK, method = "pearson")
 
 r_value <- uji_korelasi$estimate
@@ -188,9 +182,8 @@ if (p_value < alpha) {
 # UJI ASUMSI KLASIK REGRESI LINIER
 # =============================================
 
-# --------------------
 # 11. UJI LINEARITAS HUBUNGAN
-# --------------------
+
 plot(data$UangSaku, data$IPK,
     pch = 19,
     xlab="Uang Saku",
@@ -199,9 +192,9 @@ plot(data$UangSaku, data$IPK,
 
 abline(model, col="blue", lwd=2)
 
-# --------------------
+
 # 12. EKSPETASI NILAI ERROR = 0
-# --------------------
+
 mean_residual <- mean(res)
 mean_residual
 
@@ -212,9 +205,9 @@ main = "Pemeriksaan Asumsi E(ε) = 0",
 pch = 19, col = "blue")
 abline(h = 0, col = "red", lwd = 2)
 
-# --------------------
+
 # 13. HOMOSKEDASTISITAS
-# --------------------
+
 plot(model$fitted.values, res,  
     pch = 19,  
     xlab="Fitted Values",  
@@ -226,9 +219,9 @@ abline(h=0, col="red", lwd=2)
 library(lmtest)
 bptest(model)
 
-# --------------------
+
 # 14. DISTRIBUTED NORMAL RESIDUAL
-# --------------------
+
 # a. histogram residual
 hist(res,
     breaks = 10,
