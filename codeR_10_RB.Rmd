@@ -10,7 +10,7 @@ output: html_document
 
 # 1. IMPORT DATA
 
-data <- read.csv("Data Cleaned.CSV")
+data <- read.csv("Dataset.CSV")
 str(data)
 
 summary(data)
@@ -237,5 +237,6 @@ qqline(res, col="red", lwd=2)
 # Shapiro-Wilk normality test
 shapiro.test(res)
 ```
+
 
 
