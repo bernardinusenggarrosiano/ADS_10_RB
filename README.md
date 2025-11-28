@@ -10,7 +10,6 @@ Repositori ini berisi analisis data menggunakan metode regresi linear sederhana 
 - Membentuk model regresi linear sederhana.
 - Menguji asumsi klasik regresi dan menilai validitas model.
 
-## 📁 Struktur Folder
 ## 📂 Struktur Folder
 
 ### 📁 Data
