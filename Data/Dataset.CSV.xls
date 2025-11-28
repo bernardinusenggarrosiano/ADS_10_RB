@@ -1,0 +1,320 @@
+NIM,Program_Studi,IPK,UangSaku
+1,Sains Data,4.0,1
+2,Matematika,3.8,1
+3,Sains Data,3.4,1
+4,Sains Data,3.86,1
+5,Sains Data,3.97,2
+6,Sains Data,3.35,1
+7,Sains Data,3.06,2
+8,Sains Data,2.78,2
+9,Rekayasa Tata Kelola Air Terpadu,3.18,1
+10,Sains Data,3.15,1
+11,Sains Data,3.43,1
+12,Sains Data,3.07,1
+13,Sains Data,2.89,2
+14,Sains Data,3.26,1
+15,Sains Data,4.0,1
+16,Sains Data,4.0,1
+17,Sains Data,2.85,1
+18,Sains Data,3.0,2
+19,Sains Data,3.0,2
+26,Sains Data,3.03,1
+27,Sains Data,3.49,1
+28,Teknik Informatika,3.38,1
+29,Sains Data,3.89,2
+30,Sains Data,3.68,1
+43,Rekayasa Instrumentasi dan Automasi,3.64,2
+44,Sains Data,3.78,1
+45,Sains Data,3.03,1
+46,Sains Data,3.47,1
+48,Sains Data,3.37,1
+51,Sains Data,3.2,2
+53,Sains Data,3.51,1
+54,Sains Atmosfer dan Keplanetan,3.2,1
+55,Teknik Biosistem,2.8,1
+56,Teknik Pertambangan,3.5,2
+57,Teknik Geofisika,2.75,3
+58,Teknik Biomedis,3.0,4
+59,Teknik Telekomunikasi,3.28,1
+60,Teknik Elektro,3.03,1
+61,Teknik Elektro,3.39,2
+62,Arsitektur Lanskap,3.49,1
+63,Sains Aktuaria,3.0,1
+64,Sains Data,3.31,1
+65,Sains Aktuaria,3.71,1
+66,Sains Data,3.14,1
+69,Sains Data,3.22,1
+70,Rekayasa Kehutanan,3.22,1
+71,Rekayasa Keolahragaan,1.4,1
+72,Arsitektur Lanskap,3.5,2
+74,Sains Aktuaria,3.79,2
+75,Arsitektur Lanskap,3.62,1
+76,Sains Data,2.61,1
+77,Sains Data,3.29,1
+78,Sains Data,3.5,1
+79,Teknik Mesin,3.33,1
+80,Sains Data,3.79,2
+81,Sains Data,3.36,1
+82,Sains Data,3.35,1
+83,Teknik Perkeretaapian,3.56,2
+84,Sains Data,3.79,1
+85,Sains Data,3.38,1
+86,Teknik Geofisika,3.5,1
+87,Arsitektur,3.04,2
+88,Sains Data,4.0,2
+89,Sains Data,3.2,2
+90,Sains Data,3.58,2
+92,Sains Data,3.83,1
+93,Sains Data,3.81,1
+94,Sains Data,2.95,1
+95,Sains Data,3.81,2
+96,Sains Atmosfer dan Keplanetan,2.78,1
+97,Arsitektur,3.95,4
+98,Sains Data,3.07,1
+99,Sains Data,3.38,2
+100,Sains Data,2.7,1
+101,Teknologi Pangan,3.51,2
+102,Teknik Pertambangan,3.0,1
+103,Sains Lingkungan Kelautan,3.17,1
+105,Sains Data,3.47,1
+106,Sains Data,3.31,1
+108,Teknologi Pangan,3.81,1
+110,Teknik Pertambangan,3.2,4
+111,Teknik Geologi,3.6,3
+112,Sains Data,3.54,2
+113,Sains Data,3.5,1
+114,Sains Data,3.1,1
+115,Perencanaan Wilayah dan Kota,3.0,3
+116,Kimia,2.8,1
+118,Sains Data,3.75,3
+119,Kimia,3.94,1
+123,Sains Data,3.25,1
+125,Sains Data,3.24,3
+126,Sains Data,3.4,1
+127,Teknik Industri,3.3,1
+128,Sains Data,3.13,1
+129,Sains Aktuaria,3.02,2
+130,Pariwisata,3.4,1
+131,Teknik Geofisika,3.28,1
+132,Teknik Geomatika,3.0,1
+133,Sains Atmosfer dan Keplanetan,3.3,1
+134,Sains Data,3.44,1
+135,Sains Atmosfer dan Keplanetan,2.92,1
+136,Sains Data,3.2,1
+137,Sains Data,3.78,1
+138,Sains Data,2.76,1
+139,Teknik Pertambangan,3.32,1
+140,Sains Data,2.87,2
+141,Sains Atmosfer dan Keplanetan,3.34,1
+143,Fisika,2.67,1
+145,Sains Data,3.5,2
+146,Rekayasa Tata Kelola Air Terpadu,3.2,2
+147,Arsitektur,3.5,1
+148,Sains Data,3.42,3
+149,Sains Lingkungan Kelautan,3.5,1
+150,Teknik Kelautan,3.5,1
+153,Sains Data,3.6,2
+154,Sains Data,3.4,1
+155,Fisika,2.74,1
+157,Teknik Pertambangan,3.5,2
+158,Teknik Industri,3.14,2
+159,Kimia,2.8,1
+160,Sains Data,3.24,1
+164,Fisika,2.6,1
+165,Teknik Geofisika,4.0,1
+166,Sains Data,3.15,2
+169,Teknik Informatika,3.5,1
+170,Rekayasa Kosmetik,3.35,1
+171,Sains Aktuaria,4.0,2
+172,Sains Data,2.77,1
+173,Teknik Informatika,3.5,1
+174,Sains Data,3.68,1
+175,Sains Data,3.2,2
+176,Sains Data,3.86,2
+177,Teknik Geofisika,3.4,2
+178,Rekayasa Kehutanan,3.1,1
+179,Teknik Informatika,3.39,1
+180,Sains Data,3.17,1
+181,Sains Data,3.58,2
+182,Sains Data,3.0,1
+183,Sains Data,2.97,3
+184,Sains Data,3.01,2
+185,Sains Data,3.19,1
+186,Sains Data,2.5,1
+187,Sains Data,3.38,2
+188,Sains Data,3.5,3
+189,Teknik Informatika,3.84,1
+190,Sains Data,3.68,2
+191,Teknik Geofisika,3.4,2
+192,Sains Data,3.49,1
+194,Sains Data,3.0,1
+196,Fisika,3.83,2
+197,Sains Data,3.5,1
+200,Sains Data,3.97,1
+202,Sains Data,3.7,1
+203,Teknik Kimia,3.5,2
+206,Sains Aktuaria,3.43,2
+208,Biologi,2.75,1
+209,Arsitektur Lanskap,3.76,2
+210,Sains Atmosfer dan Keplanetan,2.91,4
+212,Sains Aktuaria,3.14,1
+215,Teknik Geologi,3.48,1
+217,Perencanaan Wilayah dan Kota,3.03,1
+218,Teknik Industri,3.91,3
+219,Farmasi,3.83,3
+220,Sains Atmosfer dan Keplanetan,4.0,1
+221,Sains Aktuaria,3.06,1
+223,Sains Aktuaria,3.89,3
+224,Sains Aktuaria,3.5,1
+226,Teknik Kimia,3.7,1
+228,Sains Aktuaria,3.7,1
+229,Sains Data,3.45,1
+230,Sains Data,2.83,2
+231,Teknik Fisika,2.98,4
+233,Sains Data,3.42,1
+234,Sains Aktuaria,3.33,1
+238,Biologi,3.55,1
+240,Teknik Biosistem,3.19,1
+241,Sains Aktuaria,3.17,2
+243,Fisika,2.71,1
+245,Teknik Fisika,3.57,1
+246,Sains Data,2.4,1
+247,Sains Atmosfer dan Keplanetan,2.47,1
+250,Teknik Kimia,3.74,1
+251,Sains Aktuaria,3.58,1
+253,Arsitektur,4.0,1
+254,Teknologi Pangan,4.0,1
+255,Teknik Geomatika,4.0,2
+256,Matematika,4.0,1
+257,Teknik Geofisika,4.0,1
+258,Teknik Lingkungan,4.0,1
+259,Sains Data,2.78,1
+260,Sains Data,3.74,3
+261,Sains Data,3.43,4
+262,Sains Data,3.0,2
+263,Kimia,3.16,1
+264,Sains Data,3.6,2
+265,Sains Data,3.64,1
+266,Sains Data,3.89,1
+267,Teknologi Pangan,4.0,1
+268,Teknologi Pangan,3.7,1
+270,Sains Data,3.33,1
+271,Sains Data,3.72,2
+272,Sains Data,3.07,2
+273,Sains Data,3.67,1
+275,Sains Atmosfer dan Keplanetan,3.74,2
+277,Perencanaan Wilayah dan Kota,2.8,1
+278,Sains Data,3.24,1
+279,Sains Data,3.26,1
+280,Arsitektur,3.83,1
+281,Sains Data,3.07,1
+284,Sains Atmosfer dan Keplanetan,2.6,2
+285,Teknik Informatika,3.8,1
+288,Sains Data,3.28,1
+289,Teknik Geofisika,3.5,2
+291,Matematika,4.0,1
+292,Sains Data,3.58,1
+293,Sains Data,2.89,3
+295,Fisika,3.18,1
+296,Desain Komunikasi Visual,4.0,3
+297,Teknik Elektro,3.0,1
+298,Desain Komunikasi Visual,4.0,1
+300,Teknik Informatika,3.8,1
+302,Teknologi Industri Pertanian,3.29,3
+303,Kimia,3.75,1
+305,Sains Data,3.35,3
+307,Kimia,3.21,1
+310,Sains Data,3.47,1
+311,Sains Data,3.4,1
+312,Teknik Biomedis,2.98,1
+315,Pariwisata,3.65,2
+318,Kimia,2.53,4
+319,Teknologi Pangan,3.5,1
+320,Sains Data,3.79,2
+321,Kimia,3.94,2
+322,Sains Data,3.69,1
+323,Teknik Lingkungan,3.67,2
+324,Desain Komunikasi Visual,4.0,4
+325,Teknik Informatika,3.5,1
+326,Teknik Material,3.33,1
+328,Sains Aktuaria,3.53,2
+329,Farmasi,2.9,1
+332,Farmasi,3.21,2
+333,Sains Aktuaria,4.0,1
+334,Farmasi,3.64,1
+336,Teknik Informatika,3.76,1
+337,Teknologi Pangan,3.5,1
+338,Kimia,3.94,2
+340,Teknik Biomedis,3.41,1
+341,Teknik Geologi,3.5,1
+342,Perencanaan Wilayah dan Kota,2.97,1
+344,Teknik Biomedis,3.01,2
+345,Teknik Biomedis,2.9,1
+346,Teknologi Pangan,3.33,2
+347,Teknik Pertambangan,3.6,3
+348,Sains Data,3.22,1
+349,Sains Data,3.95,4
+350,Teknik Biomedis,3.53,1
+351,Sains Data,3.01,1
+354,Sains Data,3.4,1
+355,Teknik Informatika,3.5,1
+356,Teknik Sipil,3.08,1
+357,Teknik Pertambangan,4.0,2
+358,Sains Data,3.26,2
+359,Pariwisata,3.6,1
+360,Farmasi,3.21,2
+361,Teknik Geofisika,3.02,3
+362,Teknik Industri,3.3,1
+363,Teknik Biomedis,4.0,1
+364,Teknik Informatika,3.87,1
+365,Teknik Biomedis,3.4,2
+367,Arsitektur,3.1,1
+369,Sains Data,2.83,1
+370,Teknik Biomedis,3.4,1
+371,Sains Data,3.31,1
+372,Teknik Sipil,2.5,2
+373,Teknik Kelautan,2.8,1
+374,Farmasi,3.58,1
+377,Sains Aktuaria,3.6,1
+378,Sains Data,3.2,3
+379,Teknik Biomedis,3.57,1
+381,Sains Data,2.88,1
+382,Rekayasa Instrumentasi dan Automasi,3.0,1
+383,Sains Data,3.67,3
+384,Teknik Biomedis,3.55,1
+385,Sains Data,3.06,1
+386,Sains Data,3.19,3
+388,Arsitektur,3.9,1
+390,Sains Data,3.59,1
+391,Teknik Kelautan,2.6,1
+392,Teknik Geofisika,4.0,1
+393,Teknik Lingkungan,3.4,1
+395,Fisika,3.3,2
+396,Teknik Informatika,3.29,1
+397,Sains Data,3.54,1
+398,Sains Data,3.4,3
+399,Sains Aktuaria,3.19,1
+401,Farmasi,3.5,4
+404,Sains Data,3.43,3
+407,Pariwisata,3.55,1
+408,Sains Data,2.9,1
+409,Sains Aktuaria,3.78,1
+412,Teknik Mesin,3.75,1
+414,Teknik Biosistem,3.5,1
+416,Biologi,3.0,1
+417,Kimia,3.39,1
+418,Fisika,3.17,1
+420,Sains Data,3.25,1
+422,Teknik Biomedis,3.7,4
+423,Teknik Pertambangan,3.5,1
+424,Teknik Sipil,4.0,1
+425,Teknik Informatika,3.66,1
+426,Fisika,3.48,1
+427,Teknik Kimia,3.5,1
+429,Arsitektur Lanskap,3.74,1
+430,Teknik Geologi,3.39,1
+431,Sains Atmosfer dan Keplanetan,3.3,3
+433,Arsitektur,3.2,1
+434,Teknik Biomedis,3.54,3
+435,Sains Data,3.68,1
+450,Biologi,3.78,1
