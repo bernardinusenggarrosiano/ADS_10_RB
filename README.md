@@ -33,3 +33,13 @@ Repositori ini berisi analisis data menggunakan metode regresi linear sederhana 
 1. Clone repository:
    ```bash
    git clone https://github.com/USERNAME/NAMA-REPO.git
+2. Buka
+   ```
+   R/model_regresi.R
+3. Jalankan script di RStudio
+
+## ✨ Kontributor
+1. Bernardinus Enggar Rosiano (124450045)
+2. ..
+3. ..
+4. ..
