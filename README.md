@@ -1,4 +1,5 @@
-# 📊 Analisis Pengaruh Uang Saku Mahasiswa Terhadap IPK Mahasiswa Menggunakan Metode Regresi Linear & Korelasi  Tugas Besar Analisis Data Statistika
+# 📊 Analisis Pengaruh Uang Saku Mahasiswa Terhadap IPK Mahasiswa Menggunakan Metode Regresi Linear & Korelasi  
+# Tugas Besar Analisis Data Statistika_Kelompok 10_RB
 
 ## 📌 Deskripsi Proyek
 Repositori ini berisi analisis data menggunakan metode regresi linear sederhana dan korelasi antara variabel **Uang Saku Mahasiswa** dan **IPK Mahasiswa**. Seluruh analisis dilakukan menggunakan bahasa pemrograman **R**.
